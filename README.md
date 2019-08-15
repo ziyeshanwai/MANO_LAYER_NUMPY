@@ -3,6 +3,8 @@ load mano layer without using chumpy
 
 the code is modified from https://github.com/hassony2/manopth
 
+![demo](./reade_img/demo_img.png)
+
 ## how to run
 step1. git clone https://github.com/ziyeshanwai/MANO_LAYER_NUMPY.git
 
